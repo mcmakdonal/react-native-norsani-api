@@ -1,6 +1,6 @@
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/MahmudHamid/react-native-norsani-api.svg)
 # react-native-norsani-api
-A wrappper that connects react Native to the Norsani and WooCommerce APIs. This package comes built-in with the Norsani React Native App, so if you are using it you should only consider editing the APIConfig.js file to start connecting to your Norsani Website.
+A wrappper that connects react Native to Norsani, WooCommerce and WordPress REST APIs. This package comes built-in with the Norsani React Native App, so if you are using it you should only consider editing the APIConfig.js file to start connecting to your Norsani Website.
 
 ## Installation
 
