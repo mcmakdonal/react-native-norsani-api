@@ -1,19 +1,32 @@
 {
-  "name": "react-native-woocommerce-api",
-  "version": "1.0.12",
-  "description": "Connects react Native to the WooCommerce API",
-  "main": "lib/react-native-woocommerce-api.js",
-  "license": "MIT",
+  "name": "react-native-norsani-api",
+  "version": "1.0.0",
+  "description": "A wrapper to connect Norsani, WooCommerce and WordPress REST APIs",
+  "main": "example.js",
+  "directories": {
+    "lib": "lib"
+  },
   "scripts": {
-    "test": "node test"
+    "test": "npm test"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/techneplus/react-native-woocommerce-api.git"
+    "url": "git+https://github.com/MahmudHamid/react-native-norsani-api.git"
   },
+  "dependencies": {
+    "oauth-1.0a": "^2.2.5",
+    "crypto-js": "^3.1.8"
+  },
+  "bugs": {
+    "url": "https://github.com/MahmudHamid/react-native-norsani-api/issues"
+  },
+  "homepage": "https://github.com/MahmudHamid/react-native-norsani-api",
+  "devDependencies": {},
   "keywords": [
+    "norsani",
     "woocommerce",
-    "react native",
+    "react",
+    "native",
     "react",
     "native",
     "android",
@@ -48,50 +61,28 @@
     "API",
     "wc",
     "commerce",
-    "wordpress commerce",
+    "wordpress",
+    "commerce",
     "wordpress-commerce",
     "wordpresscommerce",
-    "wordpress woocommerce",
+    "wordpress",
+    "woocommerce",
     "wordpress-woocommerce",
     "wordpress-woocommerce-api",
-    "wordpress woocommerce api",
+    "wordpress",
+    "woocommerce",
+    "api",
     "wordpresswoocommerceapi",
-    "wordpress shopping cart",
+    "wordpress",
+    "shopping",
+    "cart",
     "wordpress-shopping-cart",
     "wordpressshoppingcart"
   ],
-  "author": {
-    "name": "james Ugbanu",
-    "email": "jamesugbanu@gmail.com",
-    "url": "https://www.facebook.com/cemargo"
-  },
+  "author": "Mahmud Hamid",
+  "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/techneplus/react-native-woocommerce-api/issues"
+    "url": "https://github.com/MahmudHamid/react-native-norsani-api/issues"
   },
-  "homepage": "https://github.com/techneplus/react-native-woocommerce-api",
-  "devDependencies": {},
-  "dependencies": {
-    "oauth-1.0a": "^2.2.5",
-    "crypto-js": "^3.1.8"
-  },
-  "_id": "react-native-woocommerce-api@1.0.11",
-  "_shasum": "",
-  "_from": "node_modules\\react-native-woocommerce-api",
-  "_npmUser": {
-    "name": "james ugbanu",
-    "email": "jamesugbanu@gmail.com"
-  },
-  "gitHead": "",
-  "dist": {
-    "shasum": "",
-    "tarball": ""
-  },
-  "maintainers": [
-    {
-      "name": "james ugbanu",
-      "email": "jamesugbanu@gmail.com"
-    }
-  ],
-  "directories": {},
-  "_resolved": "file:node_modules\\react-native-woocommerce-api"
+  "homepage": "https://github.com/MahmudHamid/react-native-norsani-api#readme"
 }
