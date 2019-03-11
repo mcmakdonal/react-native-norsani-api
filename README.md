@@ -4,7 +4,7 @@ A wrappper that connects react Native to Norsani, WooCommerce and WordPress REST
 
 ## Installation
 
-To install the module using yarn:
+To install the module using yarn:.
 
 ```
 yarn add react-native-norsani-api
