@@ -12,7 +12,7 @@ const Norsani = new NorsaniAPI({
   queryStringAuth: true
 });
 
-Norsani.get('vendors', {
+Norsani.get('vendors', 'norsani', {
   })
   .then(data => {
     console.log(data);
