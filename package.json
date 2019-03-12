@@ -1,13 +1,10 @@
 {
   "name": "react-native-norsani-api",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A wrapper to connect Norsani, WooCommerce and WordPress REST APIs",
-  "main": "example.js",
-  "directories": {
-    "lib": "lib"
-  },
+  "main": "lib/react-native-norsani-api.js",
   "scripts": {
-    "test": "npm test"
+    "test": "node test"
   },
   "repository": {
     "type": "git",
@@ -17,10 +14,6 @@
     "oauth-1.0a": "^2.2.5",
     "crypto-js": "^3.1.8"
   },
-  "bugs": {
-    "url": "https://github.com/MahmudHamid/react-native-norsani-api/issues"
-  },
-  "homepage": "https://github.com/MahmudHamid/react-native-norsani-api",
   "devDependencies": {},
   "keywords": [
     "norsani",
